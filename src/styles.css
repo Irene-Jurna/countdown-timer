@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --clr-blue: #414361;
+  --clr-grey: #797A9E;
+  --clr-pink: #D8315B;
+  --clr-black: #201A23;
+  --clr-white: #EFF7FF;
+}
+
+body {
+  margin: 0;
+}
